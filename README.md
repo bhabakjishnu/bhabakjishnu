@@ -56,17 +56,17 @@
 
 <br/>
 
-## 🏆 Trophies & Contributions
+## 🏗️ Current Focus & Featured Builds
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhabakjishnu&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" width="100%" />
-</div>
+I am currently deep-diving into pure, semantic HTML5 architectures, prioritizing web accessibility and native functionality over heavy frameworks. Here is what I am building right now:
 
-<br/>
+| 📂 Repository | 🎯 Core Architecture & Focus | 🔗 Status |
+| :--- | :--- | :--- |
+| **`enterprise-support-desk`** | Native form validation (No CSS/JS), semantic structuring. | 🚧 Active Development |
+| **`day-06-accessible-blog-layout`** | Screen-reader friendly hierarchies, strict semantic HTML5. | ✅ Completed |
+| **`day-05-media-showroom`** | Native media element implementation and optimized embeds. | ✅ Completed |
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bhabakjishnu&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="80%" />
-</div>
+> **💡 Philosophy:** *Building the web right means starting from the foundation—accessible, lightweight, and semantically sound HTML.*
 
 ---
 
