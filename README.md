@@ -48,7 +48,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=bhabakjishnu&theme=aura&hide_border=false&include_all_commits=true&count_private=false" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=bhabakjishnu&theme=aura&hide_border=false" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhabakjishnu&theme=aura&hide_border=false" height="170" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
