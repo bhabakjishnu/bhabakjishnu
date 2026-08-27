@@ -49,11 +49,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=bhabakjishnu&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhabakjishnu&theme=calm_pink&hide_border=false" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhabakjishnu&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhabakjishnu&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170" alt="Top Languages" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="170" alt="Programming Quote" />
 </div>
 
