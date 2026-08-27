@@ -2,6 +2,10 @@
 
 # Hi there! 👋
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=E34F26&center=true&vCenter=true&width=600&lines=%E2%9A%A1+I'm+a+developer+managing+servers;I+break+down+massive+monoliths" alt="Typing SVG" />
+</a>
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhabakjishnu2004@gmail.com) 
 
 </div>
