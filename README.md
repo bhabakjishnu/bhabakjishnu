@@ -1,11 +1,6 @@
 <div align="center">
 
-# Jishnu Bhabak
-
-**Software Developer & Computer Science Student**  
-*Building resilient web platforms, semantic UI architectures, and clean backend services.*
-
-<br/>
+# Hi there! 👋
 
 [![Email](https://img.shields.io/badge/Email-bhabakjishnu2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhabakjishnu2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-bhabakjishnu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhabakjishnu)
